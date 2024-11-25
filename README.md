@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Disaster Defenders - Disaster Management Platform
 
 ## Table of Contents
@@ -71,3 +72,6 @@ No specific license file is provided. If you have questions about using this pro
 ## Author
 
 - [LinkedIn](https://www.linkedin.com/in/hassan-faruq-4a2858311/)
+=======
+# Hassan-Faruq
+>>>>>>> fdc9148af08f9336fac7095b580f8e96fdcc957c
