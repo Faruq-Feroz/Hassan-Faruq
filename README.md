@@ -102,9 +102,9 @@ Follow these steps to run the portfolio project on your local machine:
    ```bash
    git clone https://github.com/Faruq-Feroz/Hassan-Faruq.git
 
-2.**Navigate to the project directory: After cloning the repository, change into the project directory:
+2.**Navigate to the project directory: After cloning the repository, change into the project directory**:
 cd Hassan-Faruq
 
-3.**Open the project in your browser: You can now open the index.html file in your preferred web browser to view the portfolio:
+3.**Open the project in your browser: You can now open the index.html file in your preferred web browser to view the portfolio**:
 
-    **Right-click on index.html and select "Open with" > choose your browser.
+**Right-click on index.html and select "Open with" > choose your browser**.
