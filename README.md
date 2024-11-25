@@ -73,7 +73,6 @@ You can view the live portfolio website here: [[Hassan-Faruq](https://hassan-far
 
 ## CSS Resources
 The following resources were used for styling and animations:
-
 - `bootstrap/css/bootstrap.min.css`
 - `bootstrap-icons/bootstrap-icons.min.css`
 - `boxicons/css/boxicons.min.css`
