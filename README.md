@@ -96,3 +96,19 @@ cd Hassan-Faruq
 3.**Open the project in your browser: You can now open the index.html file in your preferred web browser to view the portfolio**:
 
     Right-click on index.html and select "Open with" > choose your browser.
+
+---
+
+
+## Author
+
+This portfolio project was developed and maintained by:
+
+**Hassan Faruq**  
+Web Developer |  
+[![GitHub](https://img.shields.io/badge/GitHub-Faruq--Feroz-blue?style=social&logo=github)](https://github.com/Faruq-Feroz)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan%20Faruq-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/hassan-faruq)  
+Email: faharicreatives42@gmail.com
+
+Feel free to reach out for collaborations or inquiries!
+
