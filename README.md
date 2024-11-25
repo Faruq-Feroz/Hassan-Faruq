@@ -39,7 +39,7 @@ You can view the live portfolio website here: [[Hassan-Faruq](https://hassan-far
 
 ### Core Technologies:
 - **HTML, CSS, JavaScript**: Core technologies for web development.
-- **Bootstrap**: Framework for responsive design. [Link to Bootstrap CSS](https://getbootstrap.com/)
+- **Bootstrap**: Framework for responsive design. 
   
 ### External Libraries:
 - **[Bootstrap Icons](https://icons.getbootstrap.com/)**: A collection of icons used throughout the portfolio for a modern and clean design.
