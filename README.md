@@ -79,16 +79,27 @@ Access the source code [here](https://github.com/Faruq-Feroz/Hassan-Faruq).
 ## CSS Resources
 The following resources were used for styling and animations:
 
-- **[Bootstrap CSS](https://getbootstrap.com/)**: Provides a responsive grid system, prebuilt components, and utilities for layout and design.
+## Technologies Used
+
+### Core Technologies:
+- **HTML, CSS, JavaScript**: Core technologies for web development.
+- **Bootstrap**: Framework for responsive design. [Link to Bootstrap CSS](https://getbootstrap.com/)
+  
+### External Libraries:
 - **[Bootstrap Icons](https://icons.getbootstrap.com/)**: A collection of icons used throughout the portfolio for a modern and clean design.
 - **[Boxicons](https://boxicons.com/)**: A flexible set of icons used for different sections of the portfolio.
-- **[Glightbox CSS](https://biati-digital.github.io/glightbox/)**: Styles for the lightbox gallery used for displaying images and videos.
+- **[Glightbox](https://biati-digital.github.io/glightbox/)**: Styles for the lightbox gallery used for displaying images and videos.
 - **[Remix Icon](https://remixicon.com/)**: A set of open-source icons used in various parts of the portfolio.
-- **[Swiper CSS](https://swiperjs.com/)**: Used for styling the touch slider component in the portfolio.
+- **[Swiper](https://swiperjs.com/)**: Used for styling the touch slider component in the portfolio.
+- **[Isotope Layout](https://isotope.metafizzy.co/)**: Provides styling for the layout grid system used to display the projects.
+- **[PureCounter](https://github.com/srexi/purecounterjs)**: A minimalistic counter library used for showcasing statistics in a visually appealing way.
+
+### Additional Libraries:
 - **Waypoints CSS**: A library for handling scroll-based animations and effects.
-- **Isotope Layout CSS**: Provides styling for the layout grid system used to display the projects.
-- **PureCounter CSS**: A minimalistic counter library used for showcasing statistics in a visually appealing way.
+  
+### Custom Styles:
 - **Custom `style.css`**: The main stylesheet for custom styling and layout adjustments specific to this portfolio.
+
 
 
 ---
