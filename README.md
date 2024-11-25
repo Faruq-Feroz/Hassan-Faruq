@@ -1,8 +1,8 @@
 # Personal Portfolio Project
 
-A modern and responsive portfolio website designed to showcase professional skills, projects, and achievements. This portfolio features multiple sections, including Home, About Me, Resume, Services, Projects, and Contact.
+A modern and responsive portfolio website designed to showcase my professional skills, projects, and achievements. This portfolio features multiple sections, including Home, About Me, Resume, Services, Projects, and Contact.
 
-You can view the live portfolio website here: [My Portfolio](https://your-portfolio-link.com)
+You can view the live portfolio website here: [[My Portfolio](https://hassan-faruq.vercel.app/)]
 
 ---
 
@@ -113,7 +113,7 @@ This portfolio project was developed and maintained by:
 *Web Developer* |  
 [![GitHub](https://img.shields.io/badge/GitHub-Faruq--Feroz-blue?style=social&logo=github&logoWidth=25)](https://github.com/Faruq-Feroz)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan%20Faruq-blue?style=social&logo=linkedin&logoWidth=25)](https://www.linkedin.com/in/hassan-faruq)  
-Email: faharicreatives42@gmail.com
+Email: faruqhassan641@gmal.com
 
 Feel free to reach out for collaborations or inquiries!
 
