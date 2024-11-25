@@ -31,6 +31,7 @@ You can view the live portfolio website here: [My Portfolio](https://your-portfo
 ---
 
 ## Technologies Used
+
 - **HTML, CSS, JavaScript**: Core technologies for web development.
 - **Bootstrap**: Framework for responsive design.
 - **External Libraries**:
@@ -42,6 +43,17 @@ You can view the live portfolio website here: [My Portfolio](https://your-portfo
   - [Isotope Layout](https://isotope.metafizzy.co/)
   - [PureCounter](https://github.com/srexi/purecounterjs)
 - **Google Fonts**: Open Sans, Raleway, and Poppins.
+
+### External Scripts for Functionality and Interactivity
+- [PureCounter](https://github.com/srexi/purecounterjs): Lightweight counter library.
+- [Bootstrap Bundle](https://getbootstrap.com/): Contains Bootstrap's JavaScript components.
+- [Glightbox](https://biati-digital.github.io/glightbox/): Lightbox gallery for images and videos.
+- [Typed.js](https://github.com/mattboldt/typed.js/): A library for creating typewriter effects.
+- [Isotope Layout](https://isotope.metafizzy.co/): Masonry-style grid layout library.
+- [Swiper](https://swiperjs.com/): A modern touch slider.
+- [Waypoints](http://imakewebthings.com/waypoints/): A library for executing functions when you scroll to an element.
+- **main.js**: Custom JavaScript for additional functionality.
+
 
 ---
 
@@ -66,16 +78,18 @@ Access the source code [here](https://github.com/Faruq-Feroz/Hassan-Faruq).
 
 ## CSS Resources
 The following resources were used for styling and animations:
-- `bootstrap/css/bootstrap.min.css`
-- `bootstrap-icons/bootstrap-icons.min.css`
-- `boxicons/css/boxicons.min.css`
-- `glightbox/css/glightbox.min.css`
-- `remixicon/remixicon.css`
-- `swiper/swiper-bundle.min.css`
-- `waypoints/`
-- `isotope-layout/`
-- `purecounter/`
-- `css/style.css`
+
+- **[Bootstrap CSS](https://getbootstrap.com/)**: Provides a responsive grid system, prebuilt components, and utilities for layout and design.
+- **[Bootstrap Icons](https://icons.getbootstrap.com/)**: A collection of icons used throughout the portfolio for a modern and clean design.
+- **[Boxicons](https://boxicons.com/)**: A flexible set of icons used for different sections of the portfolio.
+- **[Glightbox CSS](https://biati-digital.github.io/glightbox/)**: Styles for the lightbox gallery used for displaying images and videos.
+- **[Remix Icon](https://remixicon.com/)**: A set of open-source icons used in various parts of the portfolio.
+- **[Swiper CSS](https://swiperjs.com/)**: Used for styling the touch slider component in the portfolio.
+- **Waypoints CSS**: A library for handling scroll-based animations and effects.
+- **Isotope Layout CSS**: Provides styling for the layout grid system used to display the projects.
+- **PureCounter CSS**: A minimalistic counter library used for showcasing statistics in a visually appealing way.
+- **Custom `style.css`**: The main stylesheet for custom styling and layout adjustments specific to this portfolio.
+
 
 ---
 
