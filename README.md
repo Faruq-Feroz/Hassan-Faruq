@@ -1,77 +1,77 @@
-<<<<<<< HEAD
-# Disaster Defenders - Disaster Management Platform
+# Personal Portfolio Project
 
-## Table of Contents
+A modern and responsive portfolio website designed to showcase professional skills, projects, and achievements. This portfolio features multiple sections, including Home, About Me, Resume, Services, Projects, and Contact.
 
-- [Overview](#overview)
-- [Built with](#built-with)
-- [Links](#links)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [License](#license)
-- [Author](#author)
+---
 
-### Overview
+## Features
+- **Responsive Design**: Built with Bootstrap for seamless performance across devices.
+- **Interactive UI**: Includes animations, sliders, and modern layouts.
+- **Clean Navigation**: Easy-to-navigate sections for a great user experience.
+- **Integrated Resources**: Utilizes external libraries for enhanced functionality.
 
-Disaster Defenders is a web application designed to help individuals and communities stay informed and prepared during natural disasters. With real-time weather data, disaster alerts, and essential preparedness resources, the platform supports users in responding to disasters effectively. From weather forecasts to emergency reporting and community involvement, Disaster Defenders aims to empower users and provide them with the tools they need to stay safe.
+---
 
-### Built with
+## Sections
+1. **Home**: A welcome page with a professional introduction.
+2. **About Me**: Detailed information about my skills, experience, and interests.
+3. **Resume**: Displays education, work experience, and certifications.
+4. **Services**: Highlights the services offered.
+5. **Projects**: Showcases my work with images and descriptions.
+6. **Contact**: Provides options to reach out via email or social media.
 
-- ReactJs
-- SCSS Modules
-- RESTful API
-- Context API
-- Vite
-- ESLint and Prettier for code linting and formatting
-- Designed and developed by me
+---
 
-### Features
+## Technologies Used
+- **HTML, CSS, JavaScript**: Core technologies for web development.
+- **Bootstrap**: Framework for responsive design.
+- **External Libraries**:
+  - [Bootstrap Icons](https://icons.getbootstrap.com/)
+  - [Boxicons](https://boxicons.com/)
+  - [Glightbox](https://biati-digital.github.io/glightbox/)
+  - [Remix Icon](https://remixicon.com/)
+  - [Swiper](https://swiperjs.com/)
+  - [Isotope Layout](https://isotope.metafizzy.co/)
+  - [PureCounter](https://github.com/srexi/purecounterjs)
+- **Google Fonts**: Open Sans, Raleway, and Poppins.
 
-- **Real-time Weather Data:** Displays weather conditions for any city, including temperature, humidity, pressure, and visibility.
-- **Disaster Alerts:** Real-time alerts for ongoing, recent, and past disaster events, with information on severity, affected areas, and more.
-- **Preparedness Tips & Checklists:** Essential resources to help users prepare for various natural disasters.
-- **Response and Recovery Guidance:** Practical steps on how to respond to different types of disasters and tips for recovery.
-- **Emergency Reporting:** A form to report emergencies with details like type, location, severity, and images (optional).
-- **5-Day Weather Forecast:** Provides weather forecasts for the next five days, allowing users to plan accordingly.
-- **Map Integration:** Interactive maps to display disaster zones, weather patterns, and emergency routes.
-- **Get Involved:** Users can volunteer, donate, or partner with disaster relief efforts through the platform.
-- **Educational Resources:** Access to first aid, CPR, mental health awareness videos, and other disaster-related educational content.
-- **Light and Dark Modes:** Users can toggle between light and dark modes, with their preference saved using local storage.
+---
 
+## Group Members
+The project was collaboratively built during a hackathon by the following team members:
 
+1. [Hillary Kiprotich](https://github.com/Machuge27/SWEngineering/tree/main/Hackathos/Portfolio)
+2. [Hassan Khalifa](https://github.com/Faruq-Feroz/Hassan-Faruq)
+3. [Saddam Saku](https://github.com/SaddamTechie/saddamtechie.github.io)
+4. [Rashid Said](https://github.com/SirRasheed/portfoliorasheed.git)
+5. [Tom Obande](https://github.com/tbrowns/portfolio)
+6. [Alexander Brian](https://github.com/BrianKachumba/HACKATHON.git)
+7. [Zachariah Evans](https://github.com/Eva254-ke/myportfolio)
+8. [Joshua Ogallo](https://github.com/ogallj/my_portfolio)
 
-## Project Structure
+---
 
-- `src/` : Source code directory
-  - `assets/` : Image files, stylesheets, or other static assets
-  - `components/` : React components
-    - `ComponentName.jsx` : Component
-    - `ComponentName.module.css` : Stylesheet for the component using CSS modules
-  - `context/` : Context providers for the Context API
-  - `hooks/` : Custom hooks used throughout the app
-  - `App.jsx` : Main application component
-  - `index.css` : Global stylesheet
-  - `main.js` : Entry point of the application
-- `public/` : Public assets and `index.html`
-- `.eslintrc.cjs` : ESLint configuration file
-- `.env.local` : Local environment variables (sensitive, not committed to version control)
-- `vercel.json` : Vercel configuration file
-- `package.json` : Project configuration and dependencies
-- `vite.config.js` : Vite configuration file
+## Repository Link
+Access the source code [here](https://github.com/Faruq-Feroz/Hassan-Faruq).
 
-## API Integration
+---
 
-Disaster Defenders uses multiple APIs for fetching weather data, disaster alerts, and emergency information to provide real-time updates.
+## CSS Resources
+The following resources were used for styling and animations:
+- `bootstrap/css/bootstrap.min.css`
+- `bootstrap-icons/bootstrap-icons.min.css`
+- `boxicons/css/boxicons.min.css`
+- `glightbox/css/glightbox.min.css`
+- `remixicon/remixicon.css`
+- `swiper/swiper-bundle.min.css`
+- `waypoints/`
+- `isotope-layout/`
+- `purecounter/`
+- `css/style.css`
 
-## License
+---
 
-This project is open-source and free for non-commercial use. You are allowed to view, modify, and distribute the code for non-commercial purposes. For commercial use or any other inquiries, please contact me.
-No specific license file is provided. If you have questions about using this project, feel free to reach out to me at faruqhassan641@gmail.com
-
-## Author
-
-- [LinkedIn](https://www.linkedin.com/in/hassan-faruq-4a2858311/)
-=======
-# Hassan-Faruq
->>>>>>> fdc9148af08f9336fac7095b580f8e96fdcc957c
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Faruq-Feroz/Hassan-Faruq
