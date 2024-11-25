@@ -6,19 +6,21 @@ You can view the live portfolio website here: [My Portfolio](https://your-portfo
 
 ---
 
+## Table of Contents
+1. [Features](#features)
+2. [Sections](#sections)
+3. [Technologies Used](#technologies-used)
+4. [Group Members](#group-members)
+5. [Repository Link](#repository-link)
+6. [CSS Resources](#css-resources)
+7. [How to Run](#how-to-run)
+
+---
+
 ## Features
 - Modern, clean design
 - Responsive layout for all devices
 - Sections for Home, About Me, Resume, Services, Projects, and Contact
-
-
-## Features
-- **Responsive Design**: Built with Bootstrap for seamless performance across devices.
-- **Interactive UI**: Includes animations, sliders, and modern layouts.
-- **Clean Navigation**: Easy-to-navigate sections for a great user experience.
-- **Integrated Resources**: Utilizes external libraries for enhanced functionality.
-
----
 
 ## Sections
 1. **Home**: A welcome page with a professional introduction.
@@ -27,57 +29,6 @@ You can view the live portfolio website here: [My Portfolio](https://your-portfo
 4. **Services**: Highlights the services offered.
 5. **Projects**: Showcases my work with images and descriptions.
 6. **Contact**: Provides options to reach out via email or social media.
-
----
-
-## Technologies Used
-
-- **HTML, CSS, JavaScript**: Core technologies for web development.
-- **Bootstrap**: Framework for responsive design.
-- **External Libraries**:
-  - [Bootstrap Icons](https://icons.getbootstrap.com/)
-  - [Boxicons](https://boxicons.com/)
-  - [Glightbox](https://biati-digital.github.io/glightbox/)
-  - [Remix Icon](https://remixicon.com/)
-  - [Swiper](https://swiperjs.com/)
-  - [Isotope Layout](https://isotope.metafizzy.co/)
-  - [PureCounter](https://github.com/srexi/purecounterjs)
-- **Google Fonts**: Open Sans, Raleway, and Poppins.
-
-### External Scripts for Functionality and Interactivity
-- [PureCounter](https://github.com/srexi/purecounterjs): Lightweight counter library.
-- [Bootstrap Bundle](https://getbootstrap.com/): Contains Bootstrap's JavaScript components.
-- [Glightbox](https://biati-digital.github.io/glightbox/): Lightbox gallery for images and videos.
-- [Typed.js](https://github.com/mattboldt/typed.js/): A library for creating typewriter effects.
-- [Isotope Layout](https://isotope.metafizzy.co/): Masonry-style grid layout library.
-- [Swiper](https://swiperjs.com/): A modern touch slider.
-- [Waypoints](http://imakewebthings.com/waypoints/): A library for executing functions when you scroll to an element.
-- **main.js**: Custom JavaScript for additional functionality.
-
-
----
-
-## Group Members
-The project was collaboratively built during a hackathon by the following team members:
-
-1. [Hillary Kiprotich](https://github.com/Machuge27/SWEngineering/tree/main/Hackathos/Portfolio)
-2. [Hassan Khalifa](https://github.com/Faruq-Feroz/Hassan-Faruq)
-3. [Saddam Saku](https://github.com/SaddamTechie/saddamtechie.github.io)
-4. [Rashid Said](https://github.com/SirRasheed/portfoliorasheed.git)
-5. [Tom Obande](https://github.com/tbrowns/portfolio)
-6. [Alexander Brian](https://github.com/BrianKachumba/HACKATHON.git)
-7. [Zachariah Evans](https://github.com/Eva254-ke/myportfolio)
-8. [Joshua Ogallo](https://github.com/ogallj/my_portfolio)
-
----
-
-## Repository Link
-Access the source code [here](https://github.com/Faruq-Feroz/Hassan-Faruq).
-
----
-
-## CSS Resources
-The following resources were used for styling and animations:
 
 ## Technologies Used
 
@@ -100,9 +51,34 @@ The following resources were used for styling and animations:
 ### Custom Styles:
 - **Custom `style.css`**: The main stylesheet for custom styling and layout adjustments specific to this portfolio.
 
+## Group Members
+The project was collaboratively built during a hackathon by the following team members:
 
+1. [Hillary Kiprotich](https://github.com/Machuge27/SWEngineering/tree/main/Hackathos/Portfolio)
+2. [Hassan Khalifa](https://github.com/Faruq-Feroz/Hassan-Faruq)
+3. [Saddam Saku](https://github.com/SaddamTechie/saddamtechie.github.io)
+4. [Rashid Said](https://github.com/SirRasheed/portfoliorasheed.git)
+5. [Tom Obande](https://github.com/tbrowns/portfolio)
+6. [Alexander Brian](https://github.com/BrianKachumba/HACKATHON.git)
+7. [Zachariah Evans](https://github.com/Eva254-ke/myportfolio)
+8. [Joshua Ogallo](https://github.com/ogallj/my_portfolio)
 
----
+## Repository Link
+Access the source code [here](https://github.com/Faruq-Feroz/Hassan-Faruq).
+
+## CSS Resources
+The following resources were used for styling and animations:
+
+- `bootstrap/css/bootstrap.min.css`
+- `bootstrap-icons/bootstrap-icons.min.css`
+- `boxicons/css/boxicons.min.css`
+- `glightbox/css/glightbox.min.css`
+- `remixicon/remixicon.css`
+- `swiper/swiper-bundle.min.css`
+- `waypoints/`
+- `isotope-layout/`
+- `purecounter/`
+- `css/style.css`
 
 ## How to Run
 
@@ -113,9 +89,10 @@ Follow these steps to run the portfolio project on your local machine:
    ```bash
    git clone https://github.com/Faruq-Feroz/Hassan-Faruq.git
 
-2.**Navigate to the project directory: After cloning the repository, change into the project directory**:
+2. **Navigate to the project directory: After cloning the repository, change into the project directory**:
+
 cd Hassan-Faruq
 
 3.**Open the project in your browser: You can now open the index.html file in your preferred web browser to view the portfolio**:
 
-**Right-click on index.html and select "Open with" > choose your browser**.
+    Right-click on index.html and select "Open with" > choose your browser.
