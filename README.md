@@ -1,5 +1,6 @@
 # Hassan Faruq Portfolio 
-Welcome to my portfolio!!!
+**Welcome to my portfolio**!!
+
 A modern and responsive portfolio website designed to showcase my professional skills, projects, and achievements. This portfolio features multiple sections, including Home, About Me, Resume, Services, Projects, and Contact.
 
 You can view the live portfolio website here: [[Hassan-Faruq](https://hassan-faruq.vercel.app/)]
