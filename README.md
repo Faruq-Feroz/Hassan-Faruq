@@ -14,6 +14,7 @@ You can view the live portfolio website here: [My Portfolio](https://your-portfo
 5. [Repository Link](#repository-link)
 6. [CSS Resources](#css-resources)
 7. [How to Run](#how-to-run)
+8. [Author](#Author)
 
 ---
 
@@ -29,6 +30,8 @@ You can view the live portfolio website here: [My Portfolio](https://your-portfo
 4. **Services**: Highlights the services offered.
 5. **Projects**: Showcases my work with images and descriptions.
 6. **Contact**: Provides options to reach out via email or social media.
+
+---
 
 ## Technologies Used
 
@@ -51,8 +54,9 @@ You can view the live portfolio website here: [My Portfolio](https://your-portfo
 ### Custom Styles:
 - **Custom `style.css`**: The main stylesheet for custom styling and layout adjustments specific to this portfolio.
 
+---
 ## Group Members
-The project was collaboratively built during a hackathon by the following team members:
+
 
 1. [Hillary Kiprotich](https://github.com/Machuge27/SWEngineering/tree/main/Hackathos/Portfolio)
 2. [Hassan Khalifa](https://github.com/Faruq-Feroz/Hassan-Faruq)
@@ -63,8 +67,7 @@ The project was collaboratively built during a hackathon by the following team m
 7. [Zachariah Evans](https://github.com/Eva254-ke/myportfolio)
 8. [Joshua Ogallo](https://github.com/ogallj/my_portfolio)
 
-## Repository Link
-Access the source code [here](https://github.com/Faruq-Feroz/Hassan-Faruq).
+---
 
 ## CSS Resources
 The following resources were used for styling and animations:
@@ -79,6 +82,8 @@ The following resources were used for styling and animations:
 - `isotope-layout/`
 - `purecounter/`
 - `css/style.css`
+
+- ---
 
 ## How to Run
 
@@ -104,11 +109,12 @@ cd Hassan-Faruq
 
 This portfolio project was developed and maintained by:
 
-**Hassan Faruq**  
-Web Developer |  
-[![GitHub](https://img.shields.io/badge/GitHub-Faruq--Feroz-blue?style=social&logo=github)](https://github.com/Faruq-Feroz)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan%20Faruq-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/hassan-faruq)  
+### **Hassan Faruq**  
+*Web Developer* |  
+[![GitHub](https://img.shields.io/badge/GitHub-Faruq--Feroz-blue?style=social&logo=github&logoWidth=25)](https://github.com/Faruq-Feroz)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan%20Faruq-blue?style=social&logo=linkedin&logoWidth=25)](https://www.linkedin.com/in/hassan-faruq)  
 Email: faharicreatives42@gmail.com
 
 Feel free to reach out for collaborations or inquiries!
+
 
