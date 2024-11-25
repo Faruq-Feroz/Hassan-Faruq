@@ -111,9 +111,9 @@ This portfolio project was developed and maintained by:
 
 ### **Hassan Faruq**  
 *Web Developer* |  
-[![GitHub](https://img.shields.io/badge/GitHub-Faruq--Feroz-blue?style=social&logo=github&logoWidth=25)](https://github.com/Faruq-Feroz)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan%20Faruq-blue?style=social&logo=linkedin&logoWidth=25)](https://www.linkedin.com/in/hassan-faruq)  
-Email: faruqhassan641@gmal.com
+[![GitHub](https://img.shields.io/badge/GitHub-Faruq--Feroz-blue?style=social&logo=github&logoWidth=45)](https://github.com/Faruq-Feroz)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan%20Faruq-blue?style=social&logo=linkedin&logoWidth=45)](https://www.linkedin.com/in/hassan-faruq-4a2858311/)  
+Email: faruqhassan641@gmail.com
 
 Feel free to reach out for collaborations or inquiries!
 
