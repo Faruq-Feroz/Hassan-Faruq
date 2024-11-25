@@ -2,7 +2,15 @@
 
 A modern and responsive portfolio website designed to showcase professional skills, projects, and achievements. This portfolio features multiple sections, including Home, About Me, Resume, Services, Projects, and Contact.
 
+You can view the live portfolio website here: [My Portfolio](https://your-portfolio-link.com)
+
 ---
+
+## Features
+- Modern, clean design
+- Responsive layout for all devices
+- Sections for Home, About Me, Resume, Services, Projects, and Contact
+
 
 ## Features
 - **Responsive Design**: Built with Bootstrap for seamless performance across devices.
